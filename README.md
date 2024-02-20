@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a freelance Web Developer
-- 🌱 I’m currently learning React
+- 🌱 I’m learning React at the moment
 - 📫 You can reach me on LikedIn (linkedin.com/in/osmanys-perez-pena)
 
 <!--
