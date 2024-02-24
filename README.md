@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a freelance Web Developer
 - 🌱 I’m learning React and Next.js at the moment
-- 📫 You can reach me on LikedIn (linkedin.com/in/osmanys-perez-pena)
+- 📫 You can reach me on LikedIn (<a href='https://www.linkedin.com/in/osmanys-perez-pena'>linkedin.com/in/osmanys-perez-pena</a>)
 
 <!--
 **Osmanys-Perez/Osmanys-Perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
