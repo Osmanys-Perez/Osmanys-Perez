@@ -1,4 +1,4 @@
-### Hi there 👋     
+### Hi there 👋    
    
 - 🔭 I’m currently working as a freelance Web Developer      
 - 🌱 I’ve been learning React and Next.js for some time now
